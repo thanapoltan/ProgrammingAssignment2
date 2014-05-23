@@ -2,7 +2,7 @@
 ## an invertible matrix and caches its inverse matrix.
 
 ## makeCacheMatrix function creates a special "matrix" object that can
-## cache the inverse Matrix. It is really a list containing a function
+## cache its inverse Matrix. It is really a list containing a function
 ## to...
 ## 1. set the value of the Matrix
 ## 2. get the value of the Matrix
